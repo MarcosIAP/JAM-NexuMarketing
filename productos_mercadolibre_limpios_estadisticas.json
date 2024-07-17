@@ -1,27 +1,54 @@
 {
     "productos": [
         {
-            "Nombre del producto": "Laptop Asus Asus Tuf Gaming A15 Amd R5 Rtx2050 16gb 512gb Color Negro",
-            "Precio": "S/ 6999.50",
-            "Número de vistas": 4696,
+            "Nombre del producto": "Laptop Hp 240 G9 Intel Core I3 1215u 512gb Ssd 16gb Ram 1366x768px Windows 11 Home + Antivirus Norton 360",
+            "Precio": "S/ 3154.50",
+            "Número de vistas": 241,
             "Condición": "new",
-            "Cantidad disponible": 150,
-            "URL de la imagen": "http://http2.mlstatic.com/D_774375-MLU76509333540_052024-I.jpg",
-            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-asus-asus-tuf-gaming-a15-amd-r5-rtx2050-16gb-512gb-color-negro/p/MLM37283669"
+            "Cantidad disponible": 250,
+            "URL de la imagen": "http://http2.mlstatic.com/D_656246-MLU77088905699_062024-I.jpg",
+            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-hp-240-g9-intel-core-i3-1215u-512gb-ssd-16gb-ram-1366x768px-windows-11-home-antivirus-norton-360/p/MLM37794644"
+        },
+        {
+            "Nombre del producto": "Laptop Msi Gamer Thin Gf63 15.6  16gb De Ram 512gb Ssd Intel Core I5 11400h Black",
+            "Precio": "S/ 8499.50",
+            "Número de vistas": 462,
+            "Condición": "new",
+            "Cantidad disponible": 1,
+            "URL de la imagen": "http://http2.mlstatic.com/D_839779-MLU74440540707_022024-I.jpg",
+            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-msi-gamer-thin-gf63-156-16gb-de-ram-512gb-ssd-intel-core-i5-11400h-black/p/MLM26989754"
+        },
+        {
+            "Nombre del producto": "Laptop Huawei Matebook D 14 Ci3 12a 8 Gb 256 Gb Win11 Gris",
+            "Precio": "S/ 4199.50",
+            "Número de vistas": 3326,
+            "Condición": "new",
+            "Cantidad disponible": 250,
+            "URL de la imagen": "http://http2.mlstatic.com/D_862121-MLU74508032395_022024-I.jpg",
+            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-huawei-matebook-d-14-ci3-12a-8-gb-256-gb-win11-gris/p/MLM29503298"
         },
         {
             "Nombre del producto": "Notebook 245 G9 14in Negro 16gb De Ram - 512gb Ssd - Amd Ryzen 3",
-            "Precio": "S/ 4999.50",
-            "Número de vistas": 404,
+            "Precio": "S/ 2949.50",
+            "Número de vistas": 4864,
             "Condición": "new",
-            "Cantidad disponible": 50,
+            "Cantidad disponible": 1,
             "URL de la imagen": "http://http2.mlstatic.com/D_676170-MLA74065928204_012024-I.jpg",
             "Enlace al producto": "https://www.mercadolibre.com.mx/notebook-245-g9-14in-negro-16gb-de-ram-512gb-ssd-amd-ryzen-3/p/MLM27440340"
         },
         {
+            "Nombre del producto": "Apple Macbook Air (13 Pulgadas, 2020, Chip M1, 256 Gb De Ssd, 8 Gb De Ram) - Gris Espacial - Distribuidor Autorizado",
+            "Precio": "S/ 5999.50",
+            "Número de vistas": 1345,
+            "Condición": "new",
+            "Cantidad disponible": 250,
+            "URL de la imagen": "http://http2.mlstatic.com/D_801112-MLA46516512347_062021-I.jpg",
+            "Enlace al producto": "https://www.mercadolibre.com.mx/apple-macbook-air-13-pulgadas-2020-chip-m1-256-gb-de-ssd-8-gb-de-ram-gris-espacial-distribuidor-autorizado/p/MLM1017828518"
+        },
+        {
             "Nombre del producto": "Laptop  Gamer  Thunderobot 911mt 12th Intel Core I7 12650h  16gb De Ram 512gb Ssd, Nvidia Geforce Rtx 3050 165 Hz 1920x1080px Windows 11 Pro",
-            "Precio": "S/ 11567.59",
-            "Número de vistas": 4266,
+            "Precio": "S/ 11593.58",
+            "Número de vistas": 2466,
             "Condición": "new",
             "Cantidad disponible": 100,
             "URL de la imagen": "http://http2.mlstatic.com/D_901042-MLU76249680093_052024-I.jpg",
@@ -29,71 +56,44 @@
         },
         {
             "Nombre del producto": "Laptop Hp 245 G9 Amd Ryzen 3 3250u Hasta 3,5 Ghz, Memoria Ram De 16 Gb Ddr4, Ssd 256 Gb, Windows 11 Home 64-bit, Teclado En Español, 14 Pulgadas, Negro.",
-            "Precio": "S/ 2851.00",
-            "Número de vistas": 1470,
+            "Precio": "S/ 3099.69",
+            "Número de vistas": 1619,
             "Condición": "new",
-            "Cantidad disponible": 250,
+            "Cantidad disponible": 150,
             "URL de la imagen": "http://http2.mlstatic.com/D_661047-MLU73159073286_122023-I.jpg",
             "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-hp-245-g9-amd-ryzen-3-3250u-hasta-35-ghz-memoria-ram-de-16-gb-ddr4-ssd-256-gb-windows-11-home-64-bit-teclado-en-espanol-14-pulgadas-negro/p/MLM28615515"
         },
         {
             "Nombre del producto": "Laptop Lenovo Ideapad Slim 3 15.6'' Ci5 8gb + 512gb Ssd",
             "Precio": "S/ 4199.50",
-            "Número de vistas": 3077,
+            "Número de vistas": 2398,
             "Condición": "new",
             "Cantidad disponible": 1,
             "URL de la imagen": "http://http2.mlstatic.com/D_621621-MLU73824611655_012024-I.jpg",
             "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-lenovo-ideapad-slim-3-156-ci5-8gb-512gb-ssd/p/MLM28619487"
         },
         {
+            "Nombre del producto": "Laptop Asus Vivobook F15 15.6 Core I7 1255u 16g 512g Ssd W11 Color Azul",
+            "Precio": "S/ 8916.08",
+            "Número de vistas": 457,
+            "Condición": "new",
+            "Cantidad disponible": 50,
+            "URL de la imagen": "http://http2.mlstatic.com/D_976166-MLU73572150103_122023-I.jpg",
+            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-asus-vivobook-f15-156-core-i7-1255u-16g-512g-ssd-w11-color-azul/p/MLM29184265"
+        },
+        {
             "Nombre del producto": "Laptop Acer Aspire 3 15.6 Ryzen 7, 16gb/512gb, Windows 11 Color Plateado",
             "Precio": "S/ 4187.00",
-            "Número de vistas": 3170,
+            "Número de vistas": 3351,
             "Condición": "new",
             "Cantidad disponible": 50,
             "URL de la imagen": "http://http2.mlstatic.com/D_701272-MLU75124279282_032024-I.jpg",
             "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-acer-aspire-3-156-ryzen-7-16gb512gb-windows-11-color-plateado/p/MLM34680070"
-        },
-        {
-            "Nombre del producto": "Laptop Hp 240 G9 Intel Core I3 1215u 512gb Ssd 16gb Ram 1366x768px Windows 11 Home + Antivirus Norton 360",
-            "Precio": "S/ 3154.50",
-            "Número de vistas": 2012,
-            "Condición": "new",
-            "Cantidad disponible": 250,
-            "URL de la imagen": "http://http2.mlstatic.com/D_656246-MLU77088905699_062024-I.jpg",
-            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-hp-240-g9-intel-core-i3-1215u-512gb-ssd-16gb-ram-1366x768px-windows-11-home-antivirus-norton-360/p/MLM37794644"
-        },
-        {
-            "Nombre del producto": "14.1'' Laptop 8 Ram+512gb Ssd Intel Celeron N4000 Windows 11",
-            "Precio": "S/ 1799.99",
-            "Número de vistas": 1942,
-            "Condición": "new",
-            "Cantidad disponible": 50,
-            "URL de la imagen": "http://http2.mlstatic.com/D_653954-MLM76337017754_052024-I.jpg",
-            "Enlace al producto": "https://articulo.mercadolibre.com.mx/MLM-3048177446-141-laptop-8-ram512gb-ssd-intel-celeron-n4000-windows-11-_JM"
-        },
-        {
-            "Nombre del producto": "Notebook Victus 15-fb1013dx 15.6  Gris 16gb De Ram - 512gb Ssd - Amd Ryzen 5",
-            "Precio": "S/ 7999.50",
-            "Número de vistas": 4781,
-            "Condición": "new",
-            "Cantidad disponible": 1,
-            "URL de la imagen": "http://http2.mlstatic.com/D_988145-MLA73121991789_112023-I.jpg",
-            "Enlace al producto": "https://www.mercadolibre.com.mx/notebook-victus-15-fb1013dx-156-gris-16gb-de-ram-512gb-ssd-amd-ryzen-5/p/MLM28527799"
-        },
-        {
-            "Nombre del producto": "Laptop Lenovo Ideapad Celeron 4gb + 128ssd + Office Regalo Color Gris",
-            "Precio": "S/ 2499.50",
-            "Número de vistas": 3617,
-            "Condición": "new",
-            "Cantidad disponible": 1,
-            "URL de la imagen": "http://http2.mlstatic.com/D_640104-MLU72721294581_112023-I.jpg",
-            "Enlace al producto": "https://www.mercadolibre.com.mx/laptop-lenovo-ideapad-celeron-4gb-128ssd-office-regalo-color-gris/p/MLM27986873"
         }
     ],
     "estadisticas": {
-        "Precio promedio": "S/ 5025.76",
-        "Precio mínimo": "S/ 1799.99",
-        "Precio máximo": "S/ 11567.59"
+        "Precio promedio": "S/ 5679.84",
+        "Precio mínimo": "S/ 2949.50",
+        "Precio máximo": "S/ 11593.58"
     }
 }
