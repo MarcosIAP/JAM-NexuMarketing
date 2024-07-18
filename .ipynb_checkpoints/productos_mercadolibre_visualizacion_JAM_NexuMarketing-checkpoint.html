@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAM NexuMarketing - Productos Electrónicos en MercadoLibre</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        .producto {
+            border: 1px solid #ccc; border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+            transition: transform 0.2s;
+            background-color: #fff;
+        }
+        .producto:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        .producto img {
+            max-width: 100px;
+            max-height: 100px;
+            float: left;
+            margin-right: 10px;
+        }
+        .producto-detalles {
+            display: none;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+        .estadisticas p {
+            font-size: 1.1em;
+            color: #555;
+        }
+    </style>
+    <script>
+        function toggleDetails(id) {
+            var element = document.getElementById(id);
+            if (element.style.display === "none") {
+                element.style.display = "block";
+            } else {
+                element.style.display = "none";
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>JAM NexuMarketing</h1>
+        <h2>Presentación Detallada:</h2>
+        <h3>Estadísticas Generales:</h3>
+        <div class="estadisticas">
+            <p>Precio promedio: S/ 5679.84</p>
+            <p>Precio mínimo: S/ 2949.50</p>
+            <p>Precio máximo: S/ 11593.58</p>
+        </div>
+        <hr>
+        <p>JAM NexuMarketing se enfoca en ofrecer análisis profundos y visualizaciones impactantes sobre productos electrónicos disponibles en MercadoLibre, con un enfoque especial en laptops. Nuestro objetivo es proporcionar información detallada y útil para consumidores y profesionales interesados en el mercado de la tecnología.</p>
+        <h3>Detalles de los Productos:</h3>
+        <div class="producto">
+        <img src="http://http2.mlstatic.com/D_656246-MLU77088905699_062024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Hp 240 G9 Intel Core I3 1215u 512gb Ssd 16gb Ram 1366x768px Windows 11 Home + Antivirus Norton 360</h3>
+        <p><strong>Precio:</strong> S/ 3154.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-0')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-0" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 241</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 250</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-hp-240-g9-intel-core-i3-1215u-512gb-ssd-16gb-ram-1366x768px-windows-11-home-antivirus-norton-360/p/MLM37794644" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_839779-MLU74440540707_022024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Msi Gamer Thin Gf63 15.6  16gb De Ram 512gb Ssd Intel Core I5 11400h Black</h3>
+        <p><strong>Precio:</strong> S/ 8499.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-1')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-1" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 462</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 1</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-msi-gamer-thin-gf63-156-16gb-de-ram-512gb-ssd-intel-core-i5-11400h-black/p/MLM26989754" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_862121-MLU74508032395_022024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Huawei Matebook D 14 Ci3 12a 8 Gb 256 Gb Win11 Gris</h3>
+        <p><strong>Precio:</strong> S/ 4199.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-2')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-2" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 3326</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 250</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-huawei-matebook-d-14-ci3-12a-8-gb-256-gb-win11-gris/p/MLM29503298" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_676170-MLA74065928204_012024-I.jpg" alt="Imagen del producto">
+        <h3>Notebook 245 G9 14in Negro 16gb De Ram - 512gb Ssd - Amd Ryzen 3</h3>
+        <p><strong>Precio:</strong> S/ 2949.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-3')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-3" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 4864</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 1</p>
+            <p><a href="https://www.mercadolibre.com.mx/notebook-245-g9-14in-negro-16gb-de-ram-512gb-ssd-amd-ryzen-3/p/MLM27440340" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_801112-MLA46516512347_062021-I.jpg" alt="Imagen del producto">
+        <h3>Apple Macbook Air (13 Pulgadas, 2020, Chip M1, 256 Gb De Ssd, 8 Gb De Ram) - Gris Espacial - Distribuidor Autorizado</h3>
+        <p><strong>Precio:</strong> S/ 5999.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-4')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-4" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 1345</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 250</p>
+            <p><a href="https://www.mercadolibre.com.mx/apple-macbook-air-13-pulgadas-2020-chip-m1-256-gb-de-ssd-8-gb-de-ram-gris-espacial-distribuidor-autorizado/p/MLM1017828518" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_901042-MLU76249680093_052024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop  Gamer  Thunderobot 911mt 12th Intel Core I7 12650h  16gb De Ram 512gb Ssd, Nvidia Geforce Rtx 3050 165 Hz 1920x1080px Windows 11 Pro</h3>
+        <p><strong>Precio:</strong> S/ 11593.58</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-5')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-5" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 2466</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 100</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-gamer-thunderobot-911mt-12th-intel-core-i7-12650h-16gb-de-ram-512gb-ssd-nvidia-geforce-rtx-3050-165-hz-1920x1080px-windows-11-pro/p/MLM28131164" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_661047-MLU73159073286_122023-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Hp 245 G9 Amd Ryzen 3 3250u Hasta 3,5 Ghz, Memoria Ram De 16 Gb Ddr4, Ssd 256 Gb, Windows 11 Home 64-bit, Teclado En Español, 14 Pulgadas, Negro.</h3>
+        <p><strong>Precio:</strong> S/ 3099.69</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-6')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-6" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 1619</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 150</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-hp-245-g9-amd-ryzen-3-3250u-hasta-35-ghz-memoria-ram-de-16-gb-ddr4-ssd-256-gb-windows-11-home-64-bit-teclado-en-espanol-14-pulgadas-negro/p/MLM28615515" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_621621-MLU73824611655_012024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Lenovo Ideapad Slim 3 15.6'' Ci5 8gb + 512gb Ssd</h3>
+        <p><strong>Precio:</strong> S/ 4199.50</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-7')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-7" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 2398</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 1</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-lenovo-ideapad-slim-3-156-ci5-8gb-512gb-ssd/p/MLM28619487" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_976166-MLU73572150103_122023-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Asus Vivobook F15 15.6 Core I7 1255u 16g 512g Ssd W11 Color Azul</h3>
+        <p><strong>Precio:</strong> S/ 8916.08</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-8')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-8" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 457</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 50</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-asus-vivobook-f15-156-core-i7-1255u-16g-512g-ssd-w11-color-azul/p/MLM29184265" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    <div class="producto">
+        <img src="http://http2.mlstatic.com/D_701272-MLU75124279282_032024-I.jpg" alt="Imagen del producto">
+        <h3>Laptop Acer Aspire 3 15.6 Ryzen 7, 16gb/512gb, Windows 11 Color Plateado</h3>
+        <p><strong>Precio:</strong> S/ 4187.00</p>
+        <button class="btn btn-primary btn-sm" onclick="toggleDetails('detalles-9')">Mostrar/Ocultar detalles</button>
+        <div id="detalles-9" class="producto-detalles">
+            <p><strong>Número de vistas:</strong> 3351</p>
+            <p><strong>Condición:</strong> new</p>
+            <p><strong>Cantidad disponible:</strong> 50</p>
+            <p><a href="https://www.mercadolibre.com.mx/laptop-acer-aspire-3-156-ryzen-7-16gb512gb-windows-11-color-plateado/p/MLM34680070" target="_blank">Ver en MercadoLibre</a></p>
+        </div>
+    </div>
+    
+    </div>
+</body>
+</html>
